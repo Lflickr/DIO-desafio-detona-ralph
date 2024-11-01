@@ -10,7 +10,7 @@ const state = {// colocar as variaveis aqui
         gameVelo: 1000, // tempo de troca em ms
         hitPosition: 0, //armazena o id da caixa que o inimigo ta
         result: 0, //armazena o resultado
-        currentTime:10,
+        currentTime:60,
         totalLifes:3    
     },
     actions:{//variaveis que representam chamadas de funçoes ou ações que acontecem
